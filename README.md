@@ -1,9 +1,9 @@
 # File-Management-Tools
 **COMPANY:** Codtech IT Solutions  
 **NAME:** Siddharth singh Rajawat 
-**INTERN ID:** CT04DZ1977
-**DOMAIN:** C++ Programming  
-**DURATION:** 4 Weeks  
+-**INTERN ID:** CT04DZ1977
+-**DOMAIN:** C++ Programming  
+-**DURATION:** 4 Weeks  
 **MENTOR:** Neela Santhosh  
 
 A lightweight console-based file manager built in C++ using fstream. It allows users to overwrite, append, and view text file content through an interactive menu-driven interface.
